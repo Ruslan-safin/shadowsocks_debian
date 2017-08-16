@@ -1,0 +1,7 @@
+{
+    "server":"xx.xx.xx.xx",
+    "server_port":443,
+    "password":"StrongPass",
+    "timeout":120,
+    "method":"aes-256-cfb"
+}
